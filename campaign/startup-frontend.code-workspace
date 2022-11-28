@@ -1,0 +1,11 @@
+{
+    "folders": [
+		{
+			"path": "../../../Frontend/startup-frontend"
+		},
+		{
+			"path": ".."
+		}
+	],
+    "settings": {}
+}

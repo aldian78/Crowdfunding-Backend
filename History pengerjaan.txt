@@ -1,0 +1,2 @@
+- test pembayaran midtrans harus dideploy dulu, pr masih belom tau cara deploy
+- pr go get cors golang harus version 17
